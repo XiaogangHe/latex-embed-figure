@@ -1,0 +1,92 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'test.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{576bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.75)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{test.pdf}}%
+    \put(0.16975104,0.05221354){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{test.pdf}}%
+    \put(0.29017188,0.05221354){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{test.pdf}}%
+    \put(0.40946528,0.05221354){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{4}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{test.pdf}}%
+    \put(0.52976563,0.05221354){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{6}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{test.pdf}}%
+    \put(0.64979167,0.05221354){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{8}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{test.pdf}}%
+    \put(0.12755729,0.63924826){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{test.pdf}}%
+    \put(0.12839826,0.51925){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{test.pdf}}%
+    \put(0.12698767,0.39925){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{4}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{test.pdf}}%
+    \put(0.12758455,0.27925){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{6}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{test.pdf}}%
+    \put(0.12763872,0.15924878){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{8}}}%
+    \put(0.33483837,0.68368108){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Random Numbers}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{test.pdf}}%
+    \put(0.82069444,0.12284757){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0.1}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{test.pdf}}%
+    \put(0.82069444,0.18389236){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0.2}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{test.pdf}}%
+    \put(0.82069444,0.24493576){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0.3}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{test.pdf}}%
+    \put(0.82069444,0.3059809){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0.4}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{test.pdf}}%
+    \put(0.82069444,0.36702431){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0.5}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{test.pdf}}%
+    \put(0.82069444,0.42806944){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0.6}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{test.pdf}}%
+    \put(0.82069444,0.48911458){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0.7}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{test.pdf}}%
+    \put(0.82069444,0.55015799){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0.8}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{test.pdf}}%
+    \put(0.82069444,0.61120313){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{0.9}}}%
+  \end{picture}%
+\endgroup%
